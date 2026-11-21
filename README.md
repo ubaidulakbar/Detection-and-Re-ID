@@ -30,9 +30,6 @@ The dataset was constructed from multiple stamp-related datasets, including StaV
 **Public dataset:**  
 https://universe.roboflow.com/stamp-detection-hnojr/yolo-stamp
 
-**Project health:**  
-https://app.roboflow.com/stamp-detection-hnojr/yolo-stamp/health
-
 ---
 
 ### 2. Stamp Re-Identification Dataset
@@ -131,26 +128,6 @@ The manuscript associated with these datasets is currently under review.
 ## Citation
 
 If you use these datasets, this repository, or the associated code in academic research, please cite the relevant dataset and, once available, the associated paper.
-
-### Detection dataset
-
-Users of the YOLO-Stamp detection dataset may cite the public Roboflow dataset using the citation provided on its Roboflow Universe page.
-
-```bibtex
-@misc{..,
-..
-}
-```
-
-### Re-ID dataset
-
-If your work uses the Re-ID dataset, its identity organization, grouping strategy, or fixed evaluation structure, please reference this repository. A formal BibTeX citation for the associated paper will be added once the manuscript is published.
-
-**Repository:**  
-https://github.com/ubaidulakbar/Stamp-Detection-and-Re-ID
-
-**Re-ID dataset:**  
-https://drive.google.com/drive/folders/1Vn9GZzvC53Qt6rvT-FciMLmwhGet_NrC?usp=sharing
 
 ---
 
